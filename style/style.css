@@ -1,0 +1,187 @@
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-style: normal;
+  }
+
+
+.banner{
+    width: 998px;
+    height: 582px;
+    /* border: 1px solid black; */
+    text-align: center;
+}
+.banner h1{
+    font-size: 48px;
+    font-weight: 800;
+}
+.banner p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.banner button{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 21px 24px 21px 24px;
+    border-radius: 8px;
+    background: rgb(13, 19, 33);
+    color: white;
+    margin-top: 29px;
+}
+header{
+    width: 1440px;
+    height: 652px;
+/* border: 1px solid black; */
+background-image: url(../hero-bg.png);
+display: flex;
+justify-content: center;
+align-items: center;
+margin:50px auto ;
+border:1px dashed rgba(13, 19, 33, 0.281) ;
+
+}
+/* why wev development start */
+.why-web-development{
+    width: 100%;
+height: 1235px;
+/* border: 1px solid black; */
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.sub-why-web-development{
+    width: 946px;
+height: 1235px;
+margin: 0 auto;
+
+}
+.web-development{
+    width: 946px;
+    height: 160px;
+    /* border: 1px solid black; */
+    text-align: center;
+    line-height: 22px;
+}
+.web-development h1{
+    font-size: 32px;
+    font-weight: 800;
+    padding-top: 1px;
+}
+.web-development p{
+    font-size: 16px;
+    font-weight: 400;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(13, 19, 33);
+    padding-left: 1px;
+   
+}
+.btn-all{
+    font-size: 24px;
+font-weight: 700;
+}
+.i-will-do .all-p{
+    font-size: 16px;
+font-weight: 400;
+
+}
+.i-will-do .learn-btn{
+    border: 1px solid rgb(13, 19, 3);
+    padding: 10px 20px;
+    font-size: 20px;
+font-weight: 600;
+/* border: 1px solid rgb(13, 19, 33); */
+   
+}
+.img{
+    width: 259.56px;
+height: 217.01px;
+}
+.i-will-do{
+    /* border: 1px solid black; */
+    width: 946px;
+height: 336px;
+display:flex;
+justify-content: space-between;
+align-items: center;
+}
+/* i will helps stat */
+.i-will-help{
+    width: 946px;
+    height: 336px;
+    display: flex;
+    gap: 32px;
+    /* border: 1px solid black; */
+    align-items: center;
+
+}
+.i-will-help img{
+    width: 223.2px;
+    height: 208.85px;
+}
+.i-will-help .text{
+    width: 477px;
+    height: 220px;
+}
+.learn-btn{
+    border: 1px solid rgb(13, 19, 3);
+    padding: 10px 20px;
+    font-size: 20px;
+font-weight: 600;
+/* border: 1px solid rgb(13, 19, 33); */
+}
+/* i will helps end */
+/* change world start */
+.change-world{
+    width: 946px;
+height: 336px;
+/* border: 1px solid black; */
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.change-world img{
+    width: 240px;
+    height: 240px;
+}
+
+/* change world end */
+/* why wev development end */
+/* section jonkar mahbub start */
+.jhonker-mahbub{
+    width: 1140px;
+    height: 775px; 
+    /* border: 1px solid black; */
+    margin: 0px auto;
+}
+.jhonker-mahbub .text{
+    height: 113px;
+    text-align: center;
+}
+.jhonker-mahbub h3{
+    font-size: 32px;
+font-weight: 800; 
+}
+.video {
+   margin: 50px 0px;
+   width: 1140px;
+height: 614px;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px; 
+}
+.video iframe{
+    padding:33px 33px ;
+    border: 1px solid white;
+    border-radius: 16px;   
+}
+
+/* section jonkar mahbub end */
+/* section corrent target start */
+.text h3{
+    font-size: 32px;
+    font-weight: 800; 
+}
+.my-corrent-target .text{
+    text-align: center;
+    height: 113px;
+}
+/* section corrent target end */
