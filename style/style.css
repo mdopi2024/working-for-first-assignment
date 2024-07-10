@@ -175,13 +175,15 @@ border-radius: 16px;
 }
 
 /* section jonkar mahbub end */
-/* section corrent target start */
+/* my current target start  */
+
 .text h3{
     font-size: 32px;
-    font-weight: 800; 
+font-weight: 800;
+
 }
-.my-corrent-target .text{
-    text-align: center;
-    height: 113px;
+.text {
+  text-align: center;
+
 }
-/* section corrent target end */
+/* my current target end */
